@@ -1,6 +1,6 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
-ity will create .git folder which will have supporting files.
+it will create .git folder which will have supporting files for get to track the commit history.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
@@ -8,7 +8,11 @@ logical gourping of multiple changes into one commit
 
 How can you use the staging area to make sure you have one commit per logical change?
 
+Every time when i change something meaningfull, i will add it to stagging area. 
+
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches would helpfull when you are working on a new feature or issue fixing. You can maintain the master branch always producting ready.
 
 How do the diagrams help you visualize the branch structure?
 
